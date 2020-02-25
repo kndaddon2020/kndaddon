@@ -1,0 +1,41 @@
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LANCAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</title>
+<thumbnail></thumbnail>
+<link>https://</link>
+<info>
+
+by KDNADDON
+[COLOR deeppink]|[/COLOR] - LANCAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+MODELO COM VARIOS LINKS
+
+<item>
+<title>[B][COLOR line]*NEW  [/COLOR][/B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - Link 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - Link 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - Link 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>[B][COLOR line]*NEW  [/COLOR][/B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title>[B][COLOR line]*NEW  [/COLOR][/B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link> </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
