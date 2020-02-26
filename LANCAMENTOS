@@ -13,7 +13,7 @@ by KDNADDON
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title>[B][COLOR line]-[/COLOR][/B]As aventuras de betty - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR line]-[/COLOR][/B] As aventuras de betty - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1le7fHaIWAwDwsjGKoaowU69ME7583cW8/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BqqpNdlhEVZeVGwlEPGT0HPeJo.jpg</thumbnail>
 <fanart></fanart>
@@ -23,7 +23,7 @@ MODELO GDRIVE DE APENAS UM LINK
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[B][COLOR line]-[/COLOR][/B]DELOREAN:Do motor ao crime - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR line]-[/COLOR][/B] DELOREAN:Do motor ao crime - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LpMvoWJgKWMcofm3sfrvxVftcHv94iU3/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg</thumbnail>
 <fanart></fanart>
@@ -33,7 +33,7 @@ MODELO GDRIVE DE APENAS UM LINK
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[B][COLOR line]-[/COLOR][/B]JUMANJI-Proxima fase - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR line]-[/COLOR][/B] JUMANJI-Proxima fase - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zSM6d-ATgZ2ED9fOcJHCVPasl-ztNZnI/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg</thumbnail>
 <fanart></fanart>
@@ -43,7 +43,7 @@ MODELO GDRIVE DE APENAS UM LINK
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[B][COLOR line]-[/COLOR][/B]Bons meninos - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR line]-[/COLOR][/B] Bons meninos - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17UXpjMZ33oFvxGPwxEND-ePnXo0MPyLs/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg</thumbnail>
 <fanart></fanart>
@@ -53,10 +53,20 @@ MODELO GDRIVE DE APENAS UM LINK
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[B][COLOR line]-[/COLOR][/B]Com a Cor e a Coragem 2 - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<title>[B][COLOR line]-[/COLOR][/B] Com a Cor e a Coragem 2 - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y5L5_rVuU4P6tOc0YxKef6KNsqdRipFm/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNxNpXrOYJSHRKQ9M0yJkXKK2ed.jpg</thumbnail>
 <fanart></fanart>
 <info>Continuação do filme de 2002. Dezesseis anos depois de ficarem presos em uma avalanche, o irmão do herói disfarçado, Lionel, enfrenta uma ameaça para a comunidade negra e o mundo: a extrema lucidez.ANO 2019</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[B][COLOR line]-[/COLOR][/B] Surdo - [COLOR yellow]-[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IYeb-HcqFUEk680DPKacix78aGMCuHVQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x14J1zwAKpjng61bGlqz5egS3Yg.jpg</thumbnail>
+<fanart></fanart>
+<info>Norte de Espanha, Outubro de 1944. Vários grupos de guerrilheiros, antigos soldados republicanos exilados em França após o fim da guerra civil espanhola, infiltram-se no país para provocar uma revolta popular contra a ditadura do General Franco….ANO 2019</info>
 </item>
 
