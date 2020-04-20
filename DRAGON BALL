@@ -10,4 +10,15 @@ by KDNADDON
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+MODELO COM VARIOS LINKS
+
+<item>
+<title>[B][COLOR line]*NEW  [/COLOR][/B]DRAGON BALL - [COLOR yellow](2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cwQeFaWGpeOxTqCxDRRKHR82WgSnavsL/view$$lsname=[COLOR orange]HD[/COLOR] - Link 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lGkDr2X2H3-oE4BRxR9eWIQk5Ctw7oWf/view$$lsname=[COLOR orange]HD[/COLOR] - Link 2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 
