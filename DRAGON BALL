@@ -290,5 +290,25 @@ MODELO GDRIVE DE APENAS UM LINK
 <info></info>
 </item>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title> 029 - O rio que pode se mudar </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oU9PXSF6_fpR45KOE1RvgUi1sZI9dUIW/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title> 030 - O Marciano e a Patrulha Misteriosa </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ED3q2NeUngWzkr8TUUwUOd9aRfLuifnr/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 
 
