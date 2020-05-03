@@ -31,6 +31,16 @@ by KDNADDON
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
+<title> Upgrade: Atualização </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fEIFKFKzPvJWQXnxasE4X_nL2fczgwmS/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynv9tbskUZxmj0iXwjPSuJu395l.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um futuro próximo, quando a tecnologia controla quase todos os aspectos da vida, um tecnofóbico (Marshall-Green) vinga o assassinato de sua esposa e sua própria lesão causada por paralisia com a ajuda de um implante experimental de chip de computador chamado Stem.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <title> Ajuste de Conta </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13ijZxNollEitODQkkiElFAg0l3N8XbLK/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1BFCCnXK8x2XUt4LU2CYL6gFXO.jpg</thumbnail>
