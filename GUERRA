@@ -59,3 +59,13 @@ MODELO GDRIVE DE APENAS UM LINK
 <fanart></fanart>
 <info>Um grupo de fuzileiros navais devem proteger uma embaixada dos EUA no Oriente Médio quando, de repente, foram atacados por forças inimigas.</info>
 </item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title> 1918 – A Batalha de Kruty </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cPbFLheSAKIZAy40WfZbyj1JCOeuRf5O/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto um exército bolchevique de cerca de 4.000 homens, comandado pelo general Muravyov, avança em direção a Kiev, com o objetivo de capturar a cidade, uma pequena unidade ucraniana de 400 soldados está resistindo perto da estação ferroviária de Kruty. O conflito entre as forças opostas, e desiguais, fica cada vez mais violento, com uma brutalidade terrível. Os jovens, como soldados espartanos, se sacrificam na luta contra os agressores.</info>
+</item>
